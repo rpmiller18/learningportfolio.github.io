@@ -2,6 +2,6 @@
 
 
 Ryan Miller<br/>
-CISC 275 Learning Portfolio
-https://github.com/rpmiller18/learningportfolio.github.io
-rpmiller@udel.edu
+CISC 275 Learning Portfolio<br/>
+https://github.com/rpmiller18/learningportfolio.github.io<br/>
+rpmiller@udel.edu<br/>
