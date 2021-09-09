@@ -7,7 +7,9 @@ https://github.com/rpmiller18/learningportfolio.github.io<br/>
 rpmiller@udel.edu
 
 # Portfolio
+Went through the first 5 chapters of the Markdown HTML and CSS<br/>
+Learned basic HTML and CSS syntax, hierarchy, semantics and formatting to populate, design, and style web pages
 
-# To-Do
+# Change Log
 
-# Up-Next
+# TODO
