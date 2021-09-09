@@ -11,5 +11,5 @@ rpmiller@udel.edu
 Learned basic HTML and CSS syntax, hierarchy, semantics and formatting to populate, design, and style web pages
 
 # Change Log
-Went through first 5 chapters of following HTML and CSS Tutorial https://marksheet.io
+Went through first 5 chapters of following HTML and CSS Tutorial [here](https://marksheet.io)
 # TODO
