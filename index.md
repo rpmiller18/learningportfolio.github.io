@@ -12,14 +12,14 @@ rpmiller@udel.edu
 * Learned basic HTML and CSS syntax, hierarchy, semantics and formatting to populate, design, and style web pages<br/>
 * I used what I learn to make a website found here. 
 [My first site](test.html)<br/>
-* On this sight I imbedded a link into an image, made use of text and both radio and 
+* On this sight I imbedded a link into an image, made use of text and both radio and <br/>
 
 # Change Log
 
 * Went through first 5 chapters of following HTML and CSS Tutorial [here](https://marksheet.io)<br/>
 * Made [My first site](test.html)<br/>
 * Watched https://www.youtube.com/watch?v=Fk12ELJ9Bww to link vscode and github to be able to push code to my repository from vscode.<br/>
-* I ran into many errors when trying to link the two but was able to eventually get it problem solving on the internet. 
+* I ran into many errors when trying to link the two but was able to eventually get it problem solving on the internet.<br/>
 
 # TODO
 
