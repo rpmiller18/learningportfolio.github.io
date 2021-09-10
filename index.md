@@ -21,6 +21,7 @@ rpmiller@udel.edu
 * Watched https://www.youtube.com/watch?v=Fk12ELJ9Bww to link vscode and github to be able to push code to my repository from vscode.<br/>
 * I ran into many errors when trying to link the two but was able to eventually get it problem solving on the internet.<br/>
 * Implemented basic HTML and CSS into a webpage<br/>
+
 # TODO
 
 * Incorporate JavaScript to my code to allow the text box and buttons to recieve and process input.<br/>
