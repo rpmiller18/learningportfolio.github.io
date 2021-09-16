@@ -13,6 +13,7 @@ rpmiller@udel.edu
 * I used what I learned to make a website found here. 
 [My first site](test.html)<br/>
 * On this sight I imbedded a link into an image, made use of both radio and normal buttons, and edited font size and color<br/>
+* Learned basics of bootstrap grid from [this link](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)<br/>
 
 # Change Log
 
