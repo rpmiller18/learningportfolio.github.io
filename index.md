@@ -25,6 +25,12 @@ rpmiller@udel.edu
 * Watched https://www.youtube.com/watch?v=Fk12ELJ9Bww to link vscode and github to be able to push code to my repository from vscode.<br/>
 * I ran into many errors when trying to link the two but was able to eventually get it problem solving on the internet.<br/>
 * Implemented basic HTML and CSS into a webpage<br/>
+* I was able to get bootstrap running in my VSCode and made a simple site to conceptualize how to use the bootstrap grid to easily arrange information on a page<br/>
+* The tutorial was grueling and taught me I didn't know as much about HTML and CSS as I had thought<br/>
+* Took me about 5 hours to get through the tutorial but I made a sight that more closely mirrors one you might see on the internet<br/>
+* Dove into how to properly use a header, body, and footer to display a webpage, how to make diverse classes on elements that allow you to make specific CSS styling rules.<br/>
+* Updated site adding some JS processing. <br/>
+* I wasn't able to make the changes I wanted as I was struggling with JS in the capacity I wanted to use it so I did the tutorial which claimed would incorporate javascript but never did
 
 # TODO
 
@@ -32,3 +38,9 @@ rpmiller@udel.edu
 * Eventually I want the site to tally the number of yes and no responses and display them. <br/>
 * Also I want the site to print every reason for raising money and keep them all displayed on the page<br/>
 * Use bootstrap to bolster the styling of the page.
+<br/>
+<br/>
+
+* Use javascript and type script to build an interactive site
+* Incorporating react to bolster the capacity of a site
+* Find a good tutorial that includes react and javascript and will alow me to build on progress in HTTP and CSS
