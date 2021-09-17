@@ -16,6 +16,7 @@ rpmiller@udel.edu
 * Added bootstrap to my VSCode and went through overview [here](https://getbootstrap.com/docs/5.1/forms/form-control/)<br/>
 * Learned basics of bootstrap grid from [this link](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)<br/>
 * Made simple [rubric site](bootstraptest.html)<br/>
+* Went through [tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE) and made [following site](tutorial.html)<br/>
 
 # Change Log
 
