@@ -3,10 +3,11 @@
     <head>
         <title>Drake Store</title>
         <meta name="description" content = "This is the description">
+        <link rel="stylesheet" href="styles.css">
     </head>
     <body>
-        <header>
-            <nav>
+        <header class="main-header">
+            <nav class ="main-nav nav">
                 <ul>
                     <li><a href = "home.html">Home</a></li>
                     <li><a href = "store.html">Store</a></li>
@@ -16,48 +17,44 @@
             <hr>
             <h1>Drake</h1>
         </header>
-        <section>
-            <h2>MUSIC</h2>
-            <div>
+        <section class="container contect-section">
+            <h2 class="section-header">MUSIC</h2>
+            <div class="shop-items">
+            <div class="shop-item">
+                <span class="shop-item-title">CLB</span> 
+                <img class = "shop-item-image" src = https://i.cbc.ca/1.6163000.1630614872!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/drake-certified-lover-boy-album-art.jpeg>
                 <div>
-                    CLB
-                </div>
-                <img width = 150px src = https://i.cbc.ca/1.6163000.1630614872!/fileImage/httpImage/image.jpeg_gen/derivatives/16x9_620/drake-certified-lover-boy-album-art.jpeg>
-                <div>
-                    <span>$86.00</span>
-                    <button role="button"> ADD TO CART</button>
-                </div>
-            </div>
-            <div>
-                <div>
-                    Scorpion 
-                </div>
-                <img width = 150px src = https://upload.wikimedia.org/wikipedia/en/9/90/Scorpion_by_Drake.jpg>
-                <div>
-                    <span>$17.99</span>
-                    <button role="button"> ADD TO CART</button>
+                    <span class="shop-item-price">$86.00</span>
+                    <button class="btn btn-primary shop-item-button"role="button"> ADD TO CART</button>
                 </div>
             </div>
-            <div>
+            <div class="shop-item">
+                
+                    <span class=shop-item-title>Scorpion </span>
+                
+                <img class="shope-item-image" src = https://upload.wikimedia.org/wikipedia/en/9/90/Scorpion_by_Drake.jpg>
                 <div>
-                    Views
-                </div>
-                <img width = 150px src = https://media.gq.com/photos/571fd6f446f014b90abc3409/master/pass/Drake-Views-From-The-6%20(1).jpg>
-                <div>
-                    <span>$7.08</span>
-                    <button role="button"> ADD TO CART</button>
-                </div>
-            </div>
-            <div>
-                <div>
-                    More Life
-                </div>
-                <img width = 150px src = https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/More_Life_Original_Cover_-_Drake.jpg/220px-More_Life_Original_Cover_-_Drake.jpg>
-                <div>
-                    <span>$12.48</span>
-                    <button role="button"> ADD TO CART</button>
+                    <span class="shop-item-price">$17.99</span>
+                    <button class="btn btn-primary shop-item-button" role="button"> ADD TO CART</button>
                 </div>
             </div>
+            <div class="shop-item">
+                <span class="shop-item-title">Views</span>
+                <img class="shop-item-image" src = https://media.gq.com/photos/571fd6f446f014b90abc3409/master/pass/Drake-Views-From-The-6%20(1).jpg>
+                <div>
+                    <span class="shop-item-price">$7.08</span>
+                    <button role="btn btn-primary shop-item-button"> ADD TO CART</button>
+                </div>
+            </div>
+            <div class="shop-item">
+                <span class="shop-item-title">More Life</span>
+                <img class="shop-item-image" src = https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/More_Life_Original_Cover_-_Drake.jpg/220px-More_Life_Original_Cover_-_Drake.jpg>
+                <div>
+                    <span class="shop-item-price">$12.48</span>
+                    <button role="btn btn-primary shop-item-button"> ADD TO CART</button>
+                </div>
+            </div>
+        </div>
         </section>
         <section>
             <h2>Merch</h2>
