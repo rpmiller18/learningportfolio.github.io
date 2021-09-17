@@ -30,7 +30,7 @@ rpmiller@udel.edu
 * Took me about 5 hours to get through the tutorial but I made a sight that more closely mirrors one you might see on the internet<br/>
 * Dove into how to properly use a header, body, and footer to display a webpage, how to make diverse classes on elements that allow you to make specific CSS styling rules.<br/>
 * Updated site adding some JS processing. <br/>
-* I wasn't able to make the changes I wanted as I was struggling with JS in the capacity I wanted to use it so I did the tutorial which claimed would incorporate javascript but never did
+* I wasn't able to make the changes I wanted as I was struggling with JS in the capacity I wanted to use it so I did the tutorial which claimed would incorporate javascript but never did <br/>
 
 # TODO
 
@@ -41,6 +41,6 @@ rpmiller@udel.edu
 <br/>
 <br/>
 
-* Use javascript and type script to build an interactive site
-* Incorporating react to bolster the capacity of a site
-* Find a good tutorial that includes react and javascript and will alow me to build on progress in HTTP and CSS
+* Use javascript and type script to build an interactive site<br/>
+* Incorporating react to bolster the capacity of a site<br/>
+* Find a good tutorial that includes react and javascript and will alow me to build on progress in HTTP and CSS<br/>
