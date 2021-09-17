@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+    color: #777
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+.nav ul{
+    margin: 0;
+}
+.nav li {
+    display: inline;
+
+}
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white;
+    text-decoration: none;
+
+}
+.main-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid rgba(255,255,255,.3);
+}
+.nav a:hover{
+    background-color:rgba(0,0,0,.6);
+}
+.main-header{
+    background-image: url("data:image/jpeg;base64,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");
+    background-size: cover;
+}
+footer { 
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+}
+.btn{
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em;
+    cursor: pointer;
+}
+.btn-header{
+    margin: .5em 15% 2em 15%;
+    color: black;
+    border: 2px solid lightblue;
+    background-color: rgba(255,255,255.1)  
+}
+.btn-header:hover {
+    background-color: rgba(255,255,255,.1);
+}
+.section-header {
+    text-align: center;
+}
+.tour-row{
+    border-bottom: 1px solid black
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+
+}
