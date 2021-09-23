@@ -31,6 +31,7 @@ rpmiller@udel.edu
 * Dove into how to properly use a header, body, and footer to display a webpage, how to make diverse classes on elements that allow you to make specific CSS styling rules.<br/>
 * Updated site adding some JS processing. <br/>
 * I wasn't able to make the changes I wanted as I was struggling with JS in the capacity I wanted to use it so I did the tutorial which claimed would incorporate javascript but never did <br/>
+* Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)
 
 # TODO
 
