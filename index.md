@@ -36,6 +36,8 @@ rpmiller@udel.edu
 * Used a switch statement as well as a combination of purpose built functions to build [a sight] that allows you to pick rock,paper, or scissors and play the computer that randomly selects from the three. It then display who beat who and adjusts the score.<br/>
 *  Went through [following tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) teaching the basics of TypeScript
 *  Started going through [type script and react tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)
+* Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)<br/>
+
 
 # TODO
 
@@ -53,4 +55,4 @@ rpmiller@udel.edu
 <br/>
 
 *  React and typescript seem to be more difficult than I anticipated to get my head around<br/>
-*  I will continue to build more complex sites using both and plan to have 2 pretty awesome sites done for next week incorporating everything i've learned to this point<br/>
+*  I will continue to build more complex sites using both and plan to have 2 pretty awesome sites done for next week incorporating everything i've learned. <br/>
