@@ -11,12 +11,12 @@ rpmiller@udel.edu
 **Went through the first 5 chapters of the Markdown HTML and CSS Tutorial**<br/>
 * Went through [tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0) and made [Quiz Game](http://localhost:3000)<br/>
 * Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)<br/>
-** Went through [tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE) and made [following site](tutorial.html)<br/>
+*Went through [tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE) and made [following site](tutorial.html)<br/>
 * Learned basics of bootstrap grid from [this link](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)<br/>
 * Made simple [rubric site](bootstraptest.html)<br/>
 * Learned basic HTML and CSS syntax, hierarchy, semantics and formatting to populate, design, and style web pages<br/>
 * I used what I learned to make a website found here [My first site](test.html)<br/>
-* On this sight I imbedded a link into an image, made use of both radio and normal buttons, and edited font size and color<br/>
+* On this site I imbedded a link into an image, made use of both radio and normal buttons, and edited font size and color<br/>
 
 
 
@@ -40,7 +40,7 @@ rpmiller@udel.edu
 *  Started going through [type script and react tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)<br/>
 * Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)<br/>
 * Went through [guide](https://www.sitepoint.com/react-with-typescript-best-practices/) on how to use typescript and react particularly react hooks.<br/>
-* Made a quiz game with help of a [tutorial]   (https://www.youtube.com/watch?v=F2JCjVSZlG0)that uses a quiz question generator site to ask the user random questions. The difficulty, # of questions, and genre of questions can be changed in the back end and I plan to implement them for the user when I have more time. [Quiz Game](http://localhost:3000)<br/>
+* Made a quiz game with help of a [tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)that uses a quiz question generator site to ask the user random questions. The difficulty, # of questions, and genre of questions can be changed in the back end and I plan to implement them for the user when I have more time. [Quiz Game](http://localhost:3000)<br/>
 * Displayed knowledge of typescript and react particularly react hooks<br/>
 # TODO
 
