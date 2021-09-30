@@ -11,7 +11,7 @@ rpmiller@udel.edu
 **Went through the first 5 chapters of the Markdown HTML and CSS Tutorial**<br/>
 * Went through [tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0) and made [Quiz Game](http://localhost:3000)<br/>
 * Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)<br/>
-*Went through [tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE) and made [following site](tutorial.html)<br/>
+* Went through [tutorial](https://www.youtube.com/watch?v=kMT54MPz9oE) and made [following site](tutorial.html)<br/>
 * Learned basics of bootstrap grid from [this link](https://www.freecodecamp.org/news/learn-the-bootstrap-4-grid-system-in-10-minutes-e83bfae115da/)<br/>
 * Made simple [rubric site](bootstraptest.html)<br/>
 * Learned basic HTML and CSS syntax, hierarchy, semantics and formatting to populate, design, and style web pages<br/>
