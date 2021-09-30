@@ -1,4 +1,4 @@
-import StackUtils from "stack-utils";
+
 import { shuffleArray } from './utils';
 
 export type Question = {
