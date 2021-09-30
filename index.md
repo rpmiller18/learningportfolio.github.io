@@ -37,7 +37,7 @@ rpmiller@udel.edu
 *  Went through [following tutorial](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) teaching the basics of TypeScript
 *  Started going through [type script and react tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)
 * Went through [tutorial](https://www.youtube.com/watch?v=jaVNP3nIAv0) making [a web browser rock paper scissors game](http://127.0.0.1:5500/rpsmain.html)<br/>
-
+* Made a quiz game with help of a [tutorial](https://www.youtube.com/watch?v=F2JCjVSZlG0)that uses a quiz question generator site to ask the user random questions. The difficulty, # of questions, and genre of questions can be changed in the back end and I plan to implement them for the user when I have more time. [Quiz Game](my-app/public/index.htnml)
 
 # TODO
 
